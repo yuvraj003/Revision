@@ -23,7 +23,7 @@ public class Class4
 	
 	public void Method(int a,int b,int c)
 	{
-		System.out.println("Three Parametrized Method");
+		System.out.println("this is Three Parametrized Method");
 	}
 	
 	public void Method(int a,int b,int c,int d)
